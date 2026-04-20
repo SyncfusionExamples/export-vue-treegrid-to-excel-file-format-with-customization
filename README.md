@@ -11,12 +11,11 @@ A practical demonstration of exporting Syncfusion EJ2 Vue TreeGrid data to Excel
 - **Header & Footer**: Add custom headers and footers to the export
 
 ## Project Prerequisites
-Before starting, ensure you have the following installed:
+Ensure you have the compatible versions of the following tools installed on your machine:
 
-- **Node.js**: Latest stable version
 - **Visual Studio Code**: Latest version recommended
-- **npm**: Included with Node.js
-- Basic knowledge of Vue.js and JavaScript
+- **NodeJS**: v12.0.0 or later
+- **Vue 3.x**: For Vue component development
 
 ## Installation
 
