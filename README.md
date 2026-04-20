@@ -1,20 +1,44 @@
 # Export Vue Treegrid to Excel File Format with Customization
 
-A quick-start project that helps you export Syncfusion Vue TreeGrid records to Excel and CSV file formats. This project contains code to customize the file name, theme, header, and footer of the exported Excel document.
+## Repository Description
+A practical demonstration of exporting Syncfusion EJ2 Vue TreeGrid data to Excel and CSV formats with customization for file name, theme, header, and footer.
 
-Refer to the following documentation for all the Excel export options available in the Syncfusion Vue TreeGrid: 
+## Features
+- **Excel Export**: Export TreeGrid records to `.xlsx` format
+- **CSV Export**: Export TreeGrid data to CSV file format
+- **File Name Customization**: Set a custom name for the exported file
+- **Theme Support**: Apply themes to the exported Excel document
+- **Header & Footer**: Add custom headers and footers to the export
+
+## Project Prerequisites
+Ensure you have the compatible versions of the following tools installed on your machine:
+
+- **Visual Studio Code**: Latest version recommended
+- **NodeJS**: v12.0.0 or later
+- **Vue 3.x**: For Vue component development
+
+## Installation
+
+Clone and set up the project:
+
+```
+git clone https://github.com/SyncfusionExamples/export-vue-treegrid-to-excel-file-format-with-customization
+cd export-vue-treegrid-to-excel-file-format-with-customization
+npm install
+```
+
+## Running the Application
+
+Start the development server:
+
+```
+npm run serve
+```
+
+## Documentation
+
+For detailed information and configuration options:
 https://ej2.syncfusion.com/vue/documentation/treegrid/excel-export/excel-export/
 
-Check out this online example of exporting in the Syncfusion Vue TreeGrid:
-https://ej2.syncfusion.com/vue/demos/#/material/tree-grid/export.html
-
-Refer to the following Syncfusion Vue TreeGrid getting started video: 
+Getting started video:
 https://www.youtube.com/watch?v=FEMyOHKjjao
-
-## Project prerequisites
-
-Make sure that you have the latest versions of Vue, Node, Vue Class Component, and Visual Studio Code in your machine before starting to work on this project.
-
-### How to run this application?
-
-To run this application, you need to clone the `export-vue-treegrid-to-excel-file-format-with-customization` repository and then open it in Visual Studio Code. Now, simply install all the necessary react packages into your current project using the `npm install` command and run your project using the `npm run serve` command.
